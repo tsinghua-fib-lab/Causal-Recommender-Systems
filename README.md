@@ -20,7 +20,7 @@ Gao, C., Zheng, Y., Wang, W., Feng, F., He, X., & Li, Y. (2022). Causal Inferenc
 
 - [Causal Inference-based Recommendation for Addressing Data Bias](#Causal-Inference-based-Recommendation-for-Addressing-Data-Bias)
    - [Popularity Bias](#Popularity-Bias)
-   - [Clickbait Bias, Bias Amplification, Conformity Bias](#Clickbait-Bias,-Bias-Amplification,-Conformity-Bias)
+   - [Clickbait Bias, Bias Amplification, Conformity Bias](#Clickbait-Bias-Bias-Amplification-Conformity-Bias)
    - [Exposure Bias](#Exposure-Bias)
 - [Causal Inference-based Recommendation for Addressing Data Missing and Noise](#Causal-Inference-based-Recommendation-for-Addressing-Data-Missing-and-Noise)
    - [Data Missing](#Data-Missing)
@@ -79,7 +79,7 @@ Gao, C., Zheng, Y., Wang, W., Feng, F., He, X., & Li, Y. (2022). Causal Inferenc
 | CBDF | [Zhang, X., Jia, H., Su, H., Wang, W., Xu, J., & Wen, J. R. (2021, July). Counterfactual reward modification for streaming recommendation with delayed feedback. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 41-50).](https://dl.acm.org/doi/abs/10.1145/3404835.3462892) | Streaming | Importance Sampling | SIGIR | 2021 | [Python](https://github.com/hnjia00/Delayed-Feedback) |
 
 ## Beyond-accuracy RecSys with Causal Inference
-### Explanability
+### Explainability
 | **Name** | **Paper** | **RecSys Task** | **Causal Inference Method** | **Venue** | **Year** | **Code** |
 | --- | --- | --- | --- | --- | --- | --- |
 | PGPR | [Xian, Y., Fu, Z., Muthukrishnan, S., De Melo, G., & Zhang, Y. (2019, July). Reinforcement knowledge graph reasoning for explainable recommendation. In Proceedings of the 42nd international ACM SIGIR conference on research and development in information retrieval (pp. 285-294).](https://arxiv.org/pdf/1906.05237) | KG-enhanced | Causal Discovery | SIGIR | 2019 | [Python/Torch](https://github.com/orcax/PGPR) |
