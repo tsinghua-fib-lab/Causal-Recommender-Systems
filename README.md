@@ -16,6 +16,20 @@ Please cite our survey paper if this index is helpful.
 Gao, C., Zheng, Y., Wang, W., Feng, F., He, X., & Li, Y. (2022). Causal Inference in Recommender Systems: A Survey and Future Directions. arXiv preprint arXiv:2208.12397.
 ```
 
+# Table of Contents
+
+- [Causal Inference-based Recommendation for Addressing Data Bias](#Causal-Inference-based-Recommendation-for-Addressing-Data-Bias)
+   - [Popularity Bias](#Popularity-Bias)
+   - [Clickbait Bias, Bias Amplification, Conformity Bias](#Clickbait-Bias,-Bias-Amplification,-Conformity-Bias)
+   - [Exposure Bias](#Exposure-Bias)
+- [Causal Inference-based Recommendation for Addressing Data Missing and Noise](#Causal-Inference-based-Recommendation-for-Addressing-Data-Missing-and-Noise)
+   - [Data Missing](#Data-Missing)
+   - [Data Noise](#Data-Noise)
+- [Beyond-accuracy RecSys with Causal Inference](#Beyond-accuracy-RecSys-with-Causal-Inference)
+   - [Explainability](#Explainability)
+   - [Diversity](#Diversity)
+   - [Fairness](#Fairness)
+
 ## Causal Inference-based Recommendation for Addressing Data Bias
 ### Popularity Bias
 | **Name** | **Paper** | **Causal Inference Method** | **Venue** | **Year** | **Code** |
