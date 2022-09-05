@@ -5,7 +5,7 @@ Our survey **Causal Inference in Recommender Systems: A Survey and Future Direct
 
 Please cite our survey paper if this index is helpful.
 ```
-@article{gao2021causal,
+@article{gao2022causal,
   title={Causal Inference in Recommender Systems: A Survey and Future Directions},
   author={Gao, Chen and Zheng, Yu and Wang, Wenjie and Feng, Fuli and He, Xiangnan and Li, Yong},
   journal={arXiv preprint arXiv:2208.12397},
