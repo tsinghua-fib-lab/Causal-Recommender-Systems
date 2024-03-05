@@ -1,19 +1,20 @@
 # Causal-Recommender-Systems
 An index of causal inference based recommendation algorithms.
 
-Our survey **Causal Inference in Recommender Systems: A Survey and Future Directions** is available on arxiv: [link](https://arxiv.org/pdf/2208.12397.pdf)
+Our survey **Causal Inference in Recommender Systems: A Survey and Future Directions** has been accepted by [ACM TOIS](https://dl.acm.org/doi/10.1145/3543507.3583278) and is available on arxiv: [link](https://arxiv.org/pdf/2208.12397.pdf)
 
 Please cite our survey paper if this index is helpful.
 ```
 @article{gao2022causal,
-  title={Causal Inference in Recommender Systems: A Survey and Future Directions},
+  title={Causal inference in recommender systems: A survey and future directions},
   author={Gao, Chen and Zheng, Yu and Wang, Wenjie and Feng, Fuli and He, Xiangnan and Li, Yong},
-  journal={arXiv preprint arXiv:2208.12397},
-  year={2022}
+  journal={ACM Transactions on Information Systems},
+  year={2022},
+  publisher={ACM New York, NY}
 }
 ```
 ```
-Gao, C., Zheng, Y., Wang, W., Feng, F., He, X., & Li, Y. (2022). Causal Inference in Recommender Systems: A Survey and Future Directions. arXiv preprint arXiv:2208.12397.
+Gao, Chen, Yu Zheng, Wenjie Wang, Fuli Feng, Xiangnan He, and Yong Li. "Causal inference in recommender systems: A survey and future directions." ACM Transactions on Information Systems (2022).
 ```
 
 # Table of Contents
